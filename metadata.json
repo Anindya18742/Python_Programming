@@ -1,0 +1,6 @@
+{
+  "name": "Python Lists & Tuples: Interactive Curriculum & Visualizer",
+  "description": "Comprehensive interactive Python lesson plan with executable syntax examples, memory visualizers, slicing sandbox, and mastery exercises for Lists and Tuples.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
